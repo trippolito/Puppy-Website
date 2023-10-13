@@ -1,0 +1,26 @@
+* {
+  background-color: black;
+  color: azure;
+}
+
+img {
+  height: 400px;
+  width: auto;
+  margin: 20px;
+  border: 20px solid;
+  border-color: azure;
+}
+
+#layout {
+  display: grid;
+  justify-items: center;
+  padding-top: 1in;
+}
+
+#navBar {
+  float: right;
+}
+
+h1 {
+  text-decoration: underline;
+}
